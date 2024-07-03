@@ -29,24 +29,19 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/ajbatth/docuguard.git
-cd docuguard
-```
+
 
 2. Install the required Python packages:
 ```bash
-pip install -r requirements.txt
-```
+
 
 ### Usage
 
 1. Start the Flask web server:
 ```bash
-python3 predict_api.py --device cpu
 ```
 
-2. Open your web browser and go to `http://127.0.0.1:3000/`.
+2. Open your web browser and go to ``.
 
 3. Upload a document image using the web interface.
 
